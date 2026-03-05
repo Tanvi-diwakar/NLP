@@ -1,0 +1,11 @@
+importance of project in computer science ?
+
+A:
+
+To give you a short answer: 
+(1) Software can be decompiled.
+(2) Some software can be reverse engineered, reverse engineering is the act of analysing the software source code and finding all the routines/procedures that perform operations on data.
+(3) Some software can be reverse engineered relatively easily, but it is much more difficult to understand how it works. 
+(3a) As an example, there are techniques called Reverse Engineering, which uses techniques such as decompiling, reverse engineering, reverse engineering, reverse engineering, reverse engineering or reverse engineering, reverse engineering, reverse engineering, reverse engineering, reverse engineering, reverse engineering, reverse engineering, reverse engineering, reverse engineering, reverse engineering, reverse engineering to try and understand what the software does.
+(4) To improve the quality of software, it helps if there are programmers that understand the software.
+(5) This isn't limited to programming. In other fields, it is a similar idea: if there are scientists that understand some aspects of an idea or concept, then these aspects will be more likely to be understood. (I think there are also applications of such ideas where we can apply these concepts to our daily lives, such as
