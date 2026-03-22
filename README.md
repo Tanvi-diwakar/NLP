@@ -45,4 +45,9 @@ It includes projects in:
 
 ---
 
-## 📊 Repository Structure  
+👩‍💻 Author
+
+Tanvi Sandeep Diwakar
+
+Data Science & AI Enthusiast
+Focused on building real-world AI solutions
